@@ -48,4 +48,5 @@ Uploader then returns a `list` of URLs for each uploaded image.
 ]
 ```
 
-Maximum image size on pixhost.org is 10 MB so if you try to upload a larger file the uplaoder throws `TooLargeImageFormat` exception. Also in case the upload fails for some reason (upload page doesn't return 200 code) `UploadFailed` is thrown.
+Maximum image size on pixhost.org is 10 MB so if you try to upload a larger file the upload function throws `TooLargeImageFormat` exception.  
+Also in case the upload fails for some reason (upload page doesn't return `200` code) `UploadFailed` is thrown.
