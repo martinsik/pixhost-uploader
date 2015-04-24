@@ -1,12 +1,12 @@
 from setuptools import setup
 
 def readme():
-    with open('README.md') as f:
+    with open('README.rst') as f:
         return f.read()
 
 setup(
     name='pixhostuploader',
-    version='1.0',
+    version='1.0.7',
     description='Unofficial uploader to pixhost.org image sharing site.',
     long_description=readme(),
     url='https://github.com/martinsik/pixhost-uploader',
