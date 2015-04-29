@@ -7,7 +7,7 @@ website.
 Usage
 -----
 
-.. code::
+.. code::python
 
     import pixhostuploader as pixhost
 

@@ -1,2 +1,2 @@
-include README.md
-include tests/*.jpg
+include *.rst LICENSE
+recursive-exclude tests *
