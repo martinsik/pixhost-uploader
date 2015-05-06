@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name='pixhostuploader',
-    version='1.0.9',
+    version='1.0.10',
     description='Unofficial uploader to pixhost.org image sharing site.',
     long_description=readme(),
     url='https://github.com/martinsik/pixhost-uploader',
