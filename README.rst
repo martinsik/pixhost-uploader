@@ -4,6 +4,13 @@ pixhost-uploader
 Unofficial Python 3.2+ upload client for pixhost.org image sharing
 website.
 
+Installation
+------------
+
+Most easily install using `pip`:
+
+    pip install pixhost-uploader
+
 Usage
 -----
 
