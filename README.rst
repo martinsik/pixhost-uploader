@@ -9,6 +9,8 @@ Installation
 
 Most easily install using `pip`:
 
+.. code::
+
     pip install pixhost-uploader
 
 Usage
